@@ -14,7 +14,7 @@
 - [x] Homework 7: Epidemic modeling
 - [x] Homework 8: Epidemic modeling II
 - [x] Homework 9: Epidemic modeling III
-- [ ] Homework 10: Climate modeling I
+- [x] Homework 10: Climate modeling I
 
 ## Reflections
 
